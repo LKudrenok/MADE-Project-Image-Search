@@ -1,0 +1,13 @@
+torchvision==0.9.1+cu102
+torch==1.8.1+cu102
+streamlit==1.1.0
+numpy==1.20.1
+matplotlib==3.3.4
+loguru==0.5.3
+faiss-cpu==1.7.1.post2
+opencv-python==4.5.1.48
+Pillow==8.1.1
+pretrainedmodels==0.7.4
+imutils==0.5.4
+albumentations==1.1.0
+tqdm==4.58.0
